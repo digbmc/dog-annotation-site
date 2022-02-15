@@ -1,0 +1,26 @@
+---
+layout: default
+title: "Dog"
+---
+<div class="introduction">
+  <h1>Home</h1>
+
+<p>Working site for annotating *Between Dog and Wolf*.</p>
+</div>
+
+<hr>
+
+<div class="toc">
+  <h2>Chapters</h2>
+  <h3>NB: not all texts are currenly available for annotation.</h3>
+  <ul class="texts">
+  {% for item in site.texts %}
+
+    <li class="text-title">
+      <a href="{{ site.baseurl }}{{ item.url }}">
+        {{ item.title }}
+      </a>
+    </li>
+  {% endfor %}
+  </ul>
+</div>
