@@ -1,9 +1,10 @@
-04
+---
+layout: narrative
+title: Dzyndzyrela’s Discords Beyond the Itil
+language: en
+---
 
-DZYNDZYRELA’S DISCORDS   
-
-BEYOND THE ITIL
-I t was Pyotr, one smart aleck from Sloboda, who took 
+It was Pyotr, one smart aleck from Sloboda, who took 
 somethin to town—either to sell or to buy; it’s impossible to make out from such a distance: I went far away 
 lookin for seasonal work and my storm lamp doesn’t purrcolate much in the alien darkness, while my years ain’t a match 
 for bird’s sight. Pyotr is quite fine, but Pavel, his nephew, is 
