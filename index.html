@@ -14,12 +14,14 @@ title: "Dog"
   <h2>Chapters for annotation</h2>
   <ul class="texts">
   {% for item in site.texts %}
+    {% if item.public == true %}
 
     <li class="text-title">
       <a href="{{ site.baseurl }}{{ item.url }}">
         {{ item.title }}
       </a>
     </li>
+    {% endif %}
   {% endfor %}
   </ul>
   <h3>NB: only the above chapters are ready to be annotated</h3>
