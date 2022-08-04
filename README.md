@@ -1,36 +1,31 @@
-# Encyclopedia of the dog
+# Encyclopedia of the Dog: Annotating Sasha Sokolov's *Between Dog and Wolf*
 
-## Project information
+Digital Scholarship project at Bryn Mawr College, Supported by a Digital Bryn Mawr Grant, 2021-2023. 
 
+## Project team
 
-## Jekyll Theme
+- José Vergara - Project director
+- Alice McGrath - Technical lead
+- Martina Napolitano - Annotation editor
+- Noemi Albanese - Annotation contributor
+- Cameron Boucher - Digital Scholarship Project Assistant & Digital Scholarship Summer Fellow (2022)
+- Jackie Toben - Digital Scholarship Project Assistant (Spring 2022)
+- Rafiun Haque - Digital Scholarship Summer Fellow (Summer 2022
+- Adrianna Morsey - Digital Scholarship Summer Fellow (Summer 2022)
+- Arlowe Willingham - Digital Scholarship Summer Fellow (Summer 2022)
+- Karina Gonzalez - EaST Assistant and project coordinator (Summer 2022)
+- Project consultants: Chris Boyland, Andy Janco, Camilla McKay, Maria Ocando-Finol
 
-[![Build Status](https://travis-ci.org/minicomp/ed.svg?branch=master)](https://travis-ci.org/minicomp/ed) [![Gem Version](https://badge.fury.io/rb/ed..svg)](https://badge.fury.io/rb/ed.)
+## About the texts
 
-![Sample Ed screenshot](https://github.com/minicomp/ed/blob/master/assets/screenshot-home.png)
+*Паратекстуальные материалы* (c) 1980 by Sasha Sokolov. Used with permission from Azbuka Press.
+Translation copyright (c) Alexander Boguslawski (2017). Used with permission from Columbia University Press. 
+All rights reserved.
 
-Ed is a [Jekyll](https://jekyllrb.com/) theme designed for textual editors based on
+## About the site
+
+Created using [Ed](https://minicomp.github.io/ed/), a [Jekyll](https://jekyllrb.com/) theme designed for textual editors based on
 [minimal computing](http://go-dh.github.io/mincomp/) principles, and focused on legibility,
 durability, ease and flexibility.
 
 
-###  Current Features
-
-- Templates for narrative, drama and poetry
-- Responsive design for mobile phones, tablets and PCs.
-- Relatively easy to learn and teach
-- Works well in high- or low- bandwidth scenarios
-- Easier for digital archives and libraries to preserve
-- Open source, open access
-- Unobtrusive footnotes
-- Metadata in Dublin Core and OpenGraph to play nice with Zotero, libraries and social media.
-- Automatic table of content generation
-- Simple search functionality
-- Annotations via [hypothes.is](https://hypothes.is/)
-- Optional: Ability to generate well-formatted bibliographies and linked citations
-
-
-### Documentetion
-
-To learn how to install and begin using Ed, please visit our
-[documentation page](documentation.md).
