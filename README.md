@@ -18,7 +18,7 @@ Digital Scholarship project at Bryn Mawr College, Supported by a Digital Bryn Ma
 
 ## About the texts
 
-*Паратекстуальные материалы* (c) 1980 by Sasha Sokolov. Used with permission from Azbuka Press.
+*Между собакой и волком* (c) 1980 by Sasha Sokolov. Used with permission from Azbuka Press.
 Translation copyright (c) Alexander Boguslawski (2017). Used with permission from Columbia University Press. 
 All rights reserved.
 
